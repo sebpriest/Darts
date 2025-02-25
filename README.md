@@ -6,8 +6,8 @@ This repository contains an implementation of a darts match and set simulation m
 
 Key Features:
 
-Simulates individual darts sets and full matches between two players.
-The winner of each leg is determined by comparing the number of visits (sets of 3 darts) taken to finish 501 points.
-Simulations support customizable configurations for match length (best-of-sets) and set length (best-of-legs).
-Supports multiple match simulations to compute statistical probabilities (e.g., win rates and match outcomes).
-This code is designed for experimenting with various player averages and scenarios and can be expanded for deeper analysis or visualization.
+- Simulates individual darts sets and full matches between two players.
+- The winner of each leg is determined by comparing the number of visits (sets of 3 darts) taken to finish 501 points.
+- Simulations support customizable configurations for match length (best-of-sets) and set length (best-of-legs).
+- Supports multiple match simulations to compute statistical probabilities (e.g., win rates and match outcomes).
+- This code is designed for experimenting with various player averages and scenarios and can be expanded for deeper analysis or visualization.
